@@ -3,4 +3,4 @@ Chatting between different user, Registeration and login through face authentici
 
 Chat application - NodeJS, Socketio
 
-Face detection through OpenCV Cascade
+Face detection through OpenCV Cascade Classifier, numpy
