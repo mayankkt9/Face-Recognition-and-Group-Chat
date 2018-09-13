@@ -2,4 +2,5 @@
 Chatting between different user, Registeration and login through face authenticity
 
 Chat application - NodeJS, Socketio
-Face detection thrrough OpenCV Cascade
+
+Face detection through OpenCV Cascade
