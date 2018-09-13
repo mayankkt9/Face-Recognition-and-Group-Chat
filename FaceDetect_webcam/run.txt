@@ -1,0 +1,4 @@
+cd desktop
+cd p_final_year
+cd facedetect_webcam
+python webcam.py haarcascade_frontalface_default.xml
