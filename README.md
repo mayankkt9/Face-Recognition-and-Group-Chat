@@ -1,4 +1,4 @@
-# face_rec_chat
+# Face Recognition and Group Chatting System
 Chatting between different user, Registeration and login through face authenticity
 
 •	Real time chat application built using Node.js, Express, Socket.io, Passport, Mongoose, MongoDb
